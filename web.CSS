@@ -1,0 +1,25 @@
+.thepage{
+    
+  background-image: url('p.png');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+a:hover{
+    color:orange;
+    font-weight:bolder;
+    font-size:xx-large;
+    
+}
+ ul{
+    list-style-type:square 
+    
+  }
+  li{
+    font-size:x-large;
+  }
+  
+  
